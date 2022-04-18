@@ -1,4 +1,4 @@
-// ignore_for_file: prefer_const_constructors, unused_import, camel_case_types
+// ignore_for_file: prefer_const_constructors, unused_import
 
 import 'package:flutter/material.dart';
 import 'package:shop_test_1/page/cart_page.dart';
